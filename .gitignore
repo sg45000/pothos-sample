@@ -11,3 +11,6 @@
 
 #!.yarn/cache
 .pnp.*
+prisma/generated.d.ts
+prisma/client/*
+node_modules

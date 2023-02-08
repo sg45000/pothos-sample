@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2022", "DOM"],
+    "strict": true,
+    "skipLibCheck": false,
+    "target": "es2019",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "outDir": "./dist",
+    "baseUrl": "./src",
+    "rootDir": "./src",
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
