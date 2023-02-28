@@ -214,7 +214,7 @@
     tslib "^2.4.1"
     webcrypto-core "^1.7.4"
 
-"@pothos/core@^3.25.0":
+"@pothos/core@^3.26.0":
   version "3.27.0"
   resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.27.0.tgz#f9188a63d3cfc309f4c4425a404c1445db619796"
   integrity sha512-Ox+7yV1Fp4MNoiWJX+OFJ4DkidWbg5gcWF+AYFIgOplkjIXEbuFj/x0+OrDBu4herZZS2N2GeRZjwvqv1EiDQA==
